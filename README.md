@@ -1,5 +1,5 @@
 <p align="center">
-    <a href='https://docs.oracle.com/en/java/javase/8'><img alt="Java 8" src="./图片/Java8.png"></a>
+    <a href='https://docs.oracle.com/en/java/javase/8'><img alt="Java 8" src="Images/Java8.png"></a>
     <a href='https://docs.spring.io/spring-boot/docs/2.6.2-SNAPSHOT/reference/html'><img alt="Spring Boot 2" src="https://img.shields.io/badge/Spring%20Boot%202-%23000000.svg?logo=springboot"></a>
     <a href='https://staging-cn.vuejs.org'><img alt="Vue 3" src="https://img.shields.io/badge/Vue%202%20-%232b3847.svg?logo=vue.js"></a><br/>
     <a href='#'><img alt="Github stars" src="https://img.shields.io/github/stars/201206030/novel?logo=github"></a>
@@ -225,7 +225,7 @@
 
 #### 安装教程
 1.  在navicat中运行数据库脚本生成对应的数据库表
-2.  在src/main/resources/application.yml文件里更改数据库名称或数据库密码
+2.  在src/main/resources/application.yml文件里更改数据库(Redis/Mysql)名称或数据库密码
 3.  在pom.xml文件的父目录运行 mvn clean spring-boot:run 启动后端
 4.  启动前端 你可以在package.json的父目录执行下如命令 或者 直接在IDEA里点击也可运行 值得一提的是后两命令分别是打包命令和检查修复命令
 
@@ -243,21 +243,33 @@ npm run lint
 ```
 + 如下图所示
 
-![](./图片/后端启动_1.png)
-![](./图片/后端启动_2.png)
-![](./图片/前端启动_1.png)
-![](./图片/前端启动_2.png)
+![](Images/后端启动_1.png)
+![](Images/后端启动_2.png)
+![](Images/前端启动_1.png)
+![](Images/前端启动_2.png)
+![](Images/Redis.png)
 
 #### 登录账户
 
 用户名：admin
-密码：1
+密码：12345
 
 #### 截图
 
-![登录](./inc/readme/登录.png)
-![增删改查](./inc/readme/增删改查列表.png)
-![用户管理](./inc/readme/用户管理.png)
-![角色管理](./inc/readme/角色管理.png)
-![系统菜单](./inc/readme/系统菜单.png)
-![Postman测试http接口](./inc/readme/Postman测试http接口.png)
+![](Images/exam_1.png)
+![](Images/exam_2.png)
+![](Images/exam_3.png)
+![](Images/exam_4.png)
+![](Images/exam_5.png)
+![](Images/exam_6.png)
+![](Images/exam_7.png)
+![](Images/exam_8.png)
+![](Images/exam_9.png)
+![](Images/exam_10.png)
+![](Images/exam_11.png)
+![](Images/exam_12.png)
+![](Images/exam_13.png)
+![](Images/exam_14.png)
+![](Images/exam_15.png)
+
+
