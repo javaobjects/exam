@@ -248,6 +248,7 @@ npm run lint
 ![](Images/前端启动_1.png)
 ![](Images/前端启动_2.png)
 ![](Images/Redis.png)
+![](Images/postman_1.png)
 
 #### 登录账户
 
